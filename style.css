@@ -23,7 +23,7 @@ h1 p{
 }
 main{
     
-    font-family: comic sans ms;
+    font-family:Arial, Helvetica, sans-serif;
     opacity: 100%;
 }
 .para{
@@ -86,11 +86,11 @@ footer{
     flex-direction: column;
     background-color: rgb(229, 250, 227);
     font-weight: bold;
-    font-family: comic sans ms;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 footer h2{
-    margin:2% 0% ;
+    margin:0% 0% ;
     font-style: oblique;
     display: flex;
 
@@ -146,6 +146,8 @@ footer img{
     box-shadow: 10px 5px 5px rgb(122, 122, 122);
     transition: 0.5s;
 }
+
+
 
 .footercontainer1:hover{
     scale: 1.1;
