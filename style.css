@@ -91,11 +91,16 @@ footer{
 }
 footer h2{
     margin:0% 0% ;
-    font-style: oblique;
+    
     display: flex;
 
     justify-content: center;
     
+}
+.info{
+    font-style: italic;
+    font-size: 15px;
+        
 }
 .titrefooter{
     margin-top: 30px;
@@ -196,7 +201,8 @@ footer{
 }
 footer h2{
     margin:0% 10%;
-    font-style: oblique;
+    
+    text-align: center;
     display: flex;
     justify-content: center;
     
