@@ -40,7 +40,7 @@ main{
 .para2{
     width: 85%;
     background-repeat: no-repeat;
-    background-image: url(img/mainphoto.jpg);
+    background-image: url(img/mainphoto.webp);
     background-size: auto;
     background-size: 100%; 
 }
